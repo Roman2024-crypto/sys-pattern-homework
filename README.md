@@ -26,20 +26,30 @@
 
 Установил базу данных, добавил репозиторий в систему с помощью команд
 
-1. sudo apt install postgresql
-2. wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
-3. dpkg -i zabbix-release_6.4-1+ubuntu22.04_all.deb
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+sudo apt install postgresql
+wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
+dpkg -i zabbix-release_6.4-1+ubuntu22.04_all.deb
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
+Далее устанавляваем заббикс сервер и веб-интерфейс
+
+apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-apache-conf zabbix-sql-scripts
+
+После создаем под пользователем postgres пользователя заббикс 
+и создаем базу данных для пользователя заббикс с именем аббикс
+
+sudo -u postgres createuser --pwprompt zabbix
+sudo -u postgres createdb -O zabbix zabbix
+
+Импортируем схему и данные
+zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
+
+После этого поменяем значение пароля в /etc/zabbix/zabbix_server.conf в поле DBpassword
+DBPassword=admin
+
+Запустим все проццесы и установим им автозапуск
+systemctl restart zabbix-server apache2
+systemctl enable zabbix-server apache2
+
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
