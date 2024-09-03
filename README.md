@@ -1,21 +1,17 @@
-# Домашнее задание к занятию "`Система мониторинга Zabbix часть 2`" - `Козырев Роман`
+# Домашнее задание к занятию "`Кластеризация и балансировка нагрузки`" - `Козырев Роман`
 
 
 
 ### Задание 1
 
-![image](https://github.com/user-attachments/assets/6b39c294-ef69-4429-a6dd-99bf5949dc2b)
-
-### Задание 2/3
-
-По заданию 2 название шаблона "Linux by zabbix agent2"
-По заданию 3 название шаблона Test_template"
-
-![image](https://github.com/user-attachments/assets/a1d1b5aa-1af0-4aa4-93ed-9d8db001fd10)
-![image](https://github.com/user-attachments/assets/b4bdb155-1b0d-4bb3-ad4c-5d2154cf800c)
+![image](https://github.com/user-attachments/assets/c982e0c1-e343-4eca-bcda-f9239e97f54c)
+![image](https://github.com/user-attachments/assets/37053840-8396-4860-9359-612ff092cee5)
 
 
-### Задание 4
+### Задание 2
 
-![image](https://github.com/user-attachments/assets/1c70fbad-1e51-4347-aa24-9d43623ca5e0)
+![image](https://github.com/user-attachments/assets/5ae8105b-cbae-47fc-9f2d-3916964e60f0)
+![image](https://github.com/user-attachments/assets/1c979704-7026-4ce6-9b39-3ded63f7b352)
 
+![image](https://github.com/user-attachments/assets/9f52d4dd-3cf9-423c-aa5a-31adf7e87428)
+![image](https://github.com/user-attachments/assets/bdd17c6d-96fa-469e-8f90-6a5ae4556c49)
