@@ -1,17 +1,17 @@
-# Домашнее задание к занятию "`Кластеризация и балансировка нагрузки`" - `Козырев Роман`
+# Домашнее задание к занятию "`Резервное копирование`" - `Козырев Роман`
 
 
 
 ### Задание 1
 
-![image](https://github.com/user-attachments/assets/c982e0c1-e343-4eca-bcda-f9239e97f54c)
-![image](https://github.com/user-attachments/assets/37053840-8396-4860-9359-612ff092cee5)
+![image](https://github.com/user-attachments/assets/a07bf89b-b2b8-4e2d-be49-d16f3cc3442b)
+![image](https://github.com/user-attachments/assets/afd52e49-1587-4d74-a08a-fd068e9342db)
+
 
 
 ### Задание 2
 
-![image](https://github.com/user-attachments/assets/5ae8105b-cbae-47fc-9f2d-3916964e60f0)
-![image](https://github.com/user-attachments/assets/1c979704-7026-4ce6-9b39-3ded63f7b352)
+![image](https://github.com/user-attachments/assets/86146a29-7a73-41de-8cd6-4aa0b3cfc509)
+![image](https://github.com/user-attachments/assets/99f502db-e644-4e51-85d1-af7733dd6251)
+![image](https://github.com/user-attachments/assets/8c75b9c1-b204-496a-b659-42a736abd33c)
 
-![image](https://github.com/user-attachments/assets/9f52d4dd-3cf9-423c-aa5a-31adf7e87428)
-![image](https://github.com/user-attachments/assets/bdd17c6d-96fa-469e-8f90-6a5ae4556c49)
