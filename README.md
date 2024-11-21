@@ -10,6 +10,7 @@
 
 ### Решение 1.
 
+![image](https://github.com/user-attachments/assets/334f13cb-89ce-4241-96d3-3aaa53dc63ef)
 
 
 
