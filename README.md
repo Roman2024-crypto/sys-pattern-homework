@@ -23,6 +23,7 @@
 
 ### Решение 2
 
+![image](https://github.com/user-attachments/assets/a67a4614-4105-40c2-bd65-2e44d6b50d58)
 
 
 
