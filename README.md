@@ -47,6 +47,9 @@
 
 ### Решение 4
 
+![image](https://github.com/user-attachments/assets/4eaf7bbc-f505-4205-9432-63921e167847)
+
+![image](https://github.com/user-attachments/assets/93cc88ec-29c6-4f19-b42f-c80703b8a899)
 
 
 
