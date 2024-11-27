@@ -35,6 +35,7 @@
 
 ### Решение 3
 
+![image](https://github.com/user-attachments/assets/404e3182-4e09-4971-ba3e-a0cd1f1c9b69)
 
 
 ### Задание 4. Filebeat
